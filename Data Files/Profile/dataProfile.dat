@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>userAccount</name>
+   <name>dataProfile</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>16bffa8b-3455-4da5-b37d-bda2c91f1fe5</dataFileGUID>
-   <dataSourceUrl>C:\Users\ASUS\Downloads\datatesting.xlsx</dataSourceUrl>
+   <dataFileGUID>f663428b-b07d-4362-a246-67f66192b3ed</dataFileGUID>
+   <dataSourceUrl>C:\Users\ASUS\Downloads\UpdateProfile.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

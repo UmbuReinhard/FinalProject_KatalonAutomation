@@ -52,13 +52,14 @@ for (int i = 2; i <= countRow.toInteger(); i++) {
 
     String Password = findTestData(pathData).getValue('Password', i)
 
-    WebUI.setText(findTestObject('Object Repository/Login/input__email'), Email)
+  
 
     //------------------------------Cek Get Value Hasil Perulangan-------------------------
     println((('Email ke-' + i) + ' adalah ') + Email)
 
     println((('Password ke-' + i) + ' adalah ') + Password)
-
+	
+	WebUI.setText(findTestObject('Object Repository/Login/input__email'), Email)
     WebUI.setEncryptedText(findTestObject('Object Repository/Login/input__password'), Password)
 
     WebUI.click(findTestObject('Object Repository/Login/button_Masuk'))
@@ -67,6 +68,7 @@ for (int i = 2; i <= countRow.toInteger(); i++) {
 			if (WebUI.verifyElementPresent(findTestObject('Object Repository/Login/alert_Email')  , 0)) {
 	        'Hasil Capture ketika Parameter Email Tidak Di-input'
 	        WebUI.delay(2)
+			WebUI.takeScreenshot()
 		}
 
         WebUI.takeScreenshot()
@@ -74,14 +76,14 @@ for (int i = 2; i <= countRow.toInteger(); i++) {
 			if (WebUI.verifyElementPresent(findTestObject('Object Repository/Login/alert_password')  , 0)) {
 	        'Hasil Capture ketika Parameter PAssword Tidak Di-input'
 	        WebUI.delay(2)
+			WebUI.takeScreenshot()
 		}
 
-        WebUI.takeScreenshot()
     } else if (Email.isEmpty() && Password.isEmpty()) {
 		if ( WebUI.verifyElementPresent(findTestObject('Object Repository/Login/alert_Email')  , 0)
 			&& WebUI.verifyElementPresent(findTestObject('Object Repository/Login/alert_password')  , 0)) {
 			
-		        'Hasil Capture ketika Parameter Email Tidak Di-input'
+		        'Hasil Capture ketika Parameter Email dan Password Tidak Di-input'
 		        WebUI.delay(2)
 		        WebUI.takeScreenshot()
 			}
