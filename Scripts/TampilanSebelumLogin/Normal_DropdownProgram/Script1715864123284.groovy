@@ -23,37 +23,21 @@ WebUI.navigateToUrl('https://metrodataacademy.id/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Daftar/a_Daftar'))
+// Klik pada elemen dropdown "Program"
+WebUI.click(findTestObject('Object Repository/DropdownProgram/DropdownProgram/span_Program'))
 
-WebUI.setText(findTestObject('Object Repository/Daftar/input__name'), 'Testing')
+// Temukan dan klik pada elemen "Metrodata Training"
+TestObject targetElement = findTestObject('Object Repository/DropdownProgram/DropdownProgram/span_Metrodata Training_absolute inset-0')
 
-WebUI.setText(findTestObject('Object Repository/Daftar/input__email'), 'gmail21@gmail.com')
+// Scroll ke elemen "Metrodata Training"
+WebUI.scrollToElement(targetElement, 5)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__password'), '1yqqhzF9jWbq43zIrQMuwl2yFgQvFLEn')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__confirmPassword'), '1yqqhzF9jWbq43zIrQMuwl2yFgQvFLEn')
+// Klik pada elemen "Metrodata Training"
+WebUI.click(findTestObject('Object Repository/DropdownProgram/DropdownProgram/div_Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms  ConditionTentang KamiArtik'))
 
 WebUI.delay(2)
 
+// Ambil screenshot
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/Daftar/input__termsCondition'))
-
-WebUI.click(findTestObject('Object Repository/Daftar/button_Daftar'))
-
-WebUI.delay(2)
-
-// Verifikasi dan ambil screenshot untuk alert "Registrasi berhasil"
-if (WebUI.verifyElementPresent(findTestObject('Object Repository/Daftar/li_Registrasi berhasil. Silakan cek email Anda untuk melanjutkan pendaftaran akun'), 
-    5)) {
-    println('Registrasi berhasil. Silakan cek email Anda untuk melanjutkan pendaftaran akun')
-
-    WebUI.takeScreenshot()
-} else {
-    println('Registrasi gagal atau alert tidak ditemukan')
-
-    WebUI.takeScreenshot()
-}
-
 WebUI.closeBrowser()
-

@@ -21,17 +21,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://metrodataacademy.id/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/LupaPassword/LupaPassword/a_Masuk'))
 
 WebUI.click(findTestObject('Object Repository/LupaPassword/LupaPassword/a_Lupa Password'))
+
 WebUI.delay(2)
+
 WebUI.takeScreenshot()
 
 WebUI.setText(findTestObject('Object Repository/LupaPassword/LupaPassword/input__email'), 'slearn143@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/LupaPassword/LupaPassword/button_Atur Ulang'))
+
 WebUI.delay(2)
+
 WebUI.takeScreenshot()
 
-
 WebUI.closeBrowser()
+

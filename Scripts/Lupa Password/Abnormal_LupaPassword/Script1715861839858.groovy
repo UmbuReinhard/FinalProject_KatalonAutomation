@@ -21,10 +21,14 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://metrodataacademy.id/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/LupaPassword/LupaPassword/a_Masuk'))
 
 WebUI.click(findTestObject('Object Repository/LupaPassword/LupaPassword/a_Lupa Password'))
+
 WebUI.delay(2)
+
 WebUI.takeScreenshot()
 
 WebUI.setText(findTestObject('Object Repository/LupaPassword/LupaPassword/input__email'), 'gmailmail@gmail.com')
@@ -34,10 +38,13 @@ WebUI.click(findTestObject('Object Repository/LupaPassword/LupaPassword/button_A
 // Verifikasi dan ambil screenshot untuk alert "Forget Password successful"
 if (WebUI.verifyElementPresent(findTestObject('Object Repository/LupaPassword/LupaPassword/div_Gagal mengirim email'), 5)) {
     println('Forget Password successful alert is displayed')
+
     WebUI.takeScreenshot()
 } else {
     println('Forget Password successful alert is not displayed')
+
     WebUI.takeScreenshot()
 }
 
 WebUI.closeBrowser()
+

@@ -23,37 +23,18 @@ WebUI.navigateToUrl('https://metrodataacademy.id/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Daftar/a_Daftar'))
+// Klik tombol "Lihat Program"
+WebUI.click(findTestObject('Object Repository/Lihat Program Homepage/Lihat Program Homepage/span_Lihat Program'))
 
-WebUI.setText(findTestObject('Object Repository/Daftar/input__name'), 'Testing')
+// Temukan elemen yang ingin discroll
+TestObject targetElement = findTestObject('Object Repository/DropdownProgram/DropdownProgram/div_Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms  ConditionTentang KamiArtik')
 
-WebUI.setText(findTestObject('Object Repository/Daftar/input__email'), 'gmail21@gmail.com')
+// Scroll ke elemen yang ditentukan
+WebUI.scrollToElement(targetElement, 5)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__password'), '1yqqhzF9jWbq43zIrQMuwl2yFgQvFLEn')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__confirmPassword'), '1yqqhzF9jWbq43zIrQMuwl2yFgQvFLEn')
-
+// Ambil screenshot
 WebUI.delay(2)
 
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/Daftar/input__termsCondition'))
-
-WebUI.click(findTestObject('Object Repository/Daftar/button_Daftar'))
-
-WebUI.delay(2)
-
-// Verifikasi dan ambil screenshot untuk alert "Registrasi berhasil"
-if (WebUI.verifyElementPresent(findTestObject('Object Repository/Daftar/li_Registrasi berhasil. Silakan cek email Anda untuk melanjutkan pendaftaran akun'), 
-    5)) {
-    println('Registrasi berhasil. Silakan cek email Anda untuk melanjutkan pendaftaran akun')
-
-    WebUI.takeScreenshot()
-} else {
-    println('Registrasi gagal atau alert tidak ditemukan')
-
-    WebUI.takeScreenshot()
-}
-
 WebUI.closeBrowser()
-
