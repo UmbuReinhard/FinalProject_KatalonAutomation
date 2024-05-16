@@ -4,8 +4,12 @@
    <name>FinalProject_Automation_03</name>
    <tag></tag>
    <UUID>d38a43bd-9ebb-4ef5-b86e-bba21e2647d7</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\asus\Downloads\Sharing Session QA Auto\Final Project Automation\FinalProject_KatalonAutomation\FinalProject_Automation_03.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
