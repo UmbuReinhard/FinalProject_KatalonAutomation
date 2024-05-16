@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Normal_loginSucces</name>
+   <name>Abnormal_ProfileFailed</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8b80cc23-3e79-4c63-bc99-409f3a8483b4</testCaseGuid>
+   <testCaseGuid>1437d42a-818a-4494-b2ba-9ddfda6774ff</testCaseGuid>
 </TestCaseEntity>

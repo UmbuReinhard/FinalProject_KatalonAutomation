@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Daftar/a_Daftar'))
 
 WebUI.setText(findTestObject('Object Repository/Daftar/input__name'), 'Testing')
 
-WebUI.setText(findTestObject('Object Repository/Daftar/input__email'), 'gmail21@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Daftar/input__email'), 'wismadata6@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__password'), '1yqqhzF9jWbq43zIrQMuwl2yFgQvFLEn')
 

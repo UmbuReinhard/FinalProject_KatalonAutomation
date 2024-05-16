@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Normal_loginSucces</name>
+   <name>Normal_ProfileSucces</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8b80cc23-3e79-4c63-bc99-409f3a8483b4</testCaseGuid>
+   <testCaseGuid>f6787b3e-daa0-4451-a8ed-efebc87c1c49</testCaseGuid>
 </TestCaseEntity>
