@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alert_university</name>
+   <tag></tag>
+   <elementGuidId>b7579d23-7f91-4ac0-bd5c-26d256edfb52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/form/div[2]/div[2]/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.block.text-sm.font-medium.leading-6.text-red-600</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f8bcd9f-f763-4fb5-9044-a1cb8d1513ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block text-sm font-medium leading-6 text-red-600</value>
+      <webElementGuid>dee65873-4db0-442d-8fa7-3ac59791ef55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Universitas wajib diisi</value>
+      <webElementGuid>657be8e4-95b3-48fe-a432-50f1c2255390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/div[2]/form[@class=&quot;pb-8 divide-y divide-[#5D5D5D] lg:pb-24&quot;]/div[@class=&quot;grid grid-cols-1 py-8 max-w-7xl lg:py-10 md:grid-cols-3 gap-[30px]&quot;]/div[@class=&quot;md:col-span-2&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex mt-4 text-sm&quot;]/span[@class=&quot;block text-sm font-medium leading-6 text-red-600&quot;]</value>
+      <webElementGuid>7f8f307b-0eb5-470f-a000-17e0b60dfb7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/form/div[2]/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>e3d4c01a-4e7f-4d86-87c4-328b2aa1386f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::span[1]</value>
+      <webElementGuid>2f004c8c-d20c-4a36-b951-110902b667a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/preceding::span[1]</value>
+      <webElementGuid>cc3e46f2-e74e-4770-b04f-bfd0afedbdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Universitas wajib diisi']/parent::*</value>
+      <webElementGuid>7e5783cc-771e-4fc8-8f0b-5dd2ad19388d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>dc9cb8c3-ae4b-4e73-b55e-4abd264c7507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Universitas wajib diisi' or . = 'Universitas wajib diisi')]</value>
+      <webElementGuid>4334a9ca-ba8b-412b-befc-53d97edf4bb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

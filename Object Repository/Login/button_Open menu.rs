@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Open menu</name>
+   <tag></tag>
+   <elementGuidId>19a32956-2c9a-49c0-bd92-f1863eb4c40b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/nav/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.inline-flex.items-center.justify-center.p-2.-m-2.text-white.rounded-md.5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b554098-5839-4b3c-aa3c-ecc52211e2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center p-2 -m-2 text-white rounded-md 5</value>
+      <webElementGuid>bcdca318-56d5-4fab-9fac-5bd96f24a3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open menu</value>
+      <webElementGuid>9d872beb-61f3-4eb8-b376-5f4ef7c924af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;fixed top-0 left-0 right-0 z-10 bg-gradient-to-r from-white/40 to-white/20 sm:z-40 drop-shadow-lg backdrop-blur-lg&quot;]/nav[@class=&quot;flex items-center justify-between lg:px-[108px] xl:py-2 xl:h-[92px] py-6 px-8 xl:justify-center&quot;]/div[@class=&quot;flex xl:hidden mr-1.5 xl:mr-0&quot;]/button[@class=&quot;inline-flex items-center justify-center p-2 -m-2 text-white rounded-md 5&quot;]</value>
+      <webElementGuid>cc1d8a80-cf30-4d94-a0ea-d4f9a4eeae71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/nav/div[2]/button</value>
+      <webElementGuid>ce3fd559-954d-4663-838f-670cbac376a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[2]/following::button[1]</value>
+      <webElementGuid>059d3287-0bfc-4045-bb6e-431eed523669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[1]/preceding::button[1]</value>
+      <webElementGuid>8ddbb212-4deb-44b5-9175-2a479d97204b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>aea24f56-95c2-46fe-ab0a-c24a9d1e987f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Open menu' or . = 'Open menu')]</value>
+      <webElementGuid>188c1d8f-b86a-46a5-a40a-5afc1404043d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
