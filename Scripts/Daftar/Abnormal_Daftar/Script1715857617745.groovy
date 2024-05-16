@@ -31,9 +31,23 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__password'
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__confirmPassword'), '1yqqhzF9jWbq43zIrQMuwl2yFgQvFLEn')
 
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Daftar/input__termsCondition'))
 
 WebUI.click(findTestObject('Object Repository/Daftar/button_Daftar'))
 
-WebUI.closeBrowser()
+WebUI.delay(2)
+WebUI.takeScreenshot()
 
+// Verifikasi dan ambil screenshot untuk alert "Email sudah terdaftar"
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/Daftar/li_Email sudah terdaftar'), 5)) {
+    println('Email sudah terdaftar')
+    WebUI.takeScreenshot()
+} else {
+    println('Registrasi berhasil atau alert tidak ditemukan')
+    WebUI.takeScreenshot()
+}
+
+WebUI.closeBrowser()
