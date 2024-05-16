@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Atur Ulang</name>
+   <tag></tag>
+   <elementGuidId>cf32c611-9e15-48a7-9aa6-85c54b966ad8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.items-center.justify-center.px-8.py-4.font-sans.text-base.font-medium.text-center.text-white.rounded-md.bg-cerulean-600</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Atur Ulang&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a945fc01-96d1-4c0a-ab08-b70ec6d82de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>68c746c1-0680-4bc2-9ec9-87702ecd109f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>items-center justify-center px-8 py-4 font-sans text-base font-medium text-center text-white rounded-md bg-cerulean-600</value>
+      <webElementGuid>0968bf22-3389-4504-b5e5-95a03ce553d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atur Ulang</value>
+      <webElementGuid>0b743815-aac3-43d0-b35a-56d3fb4e9935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col justify-center items-center gap-10 px-8&quot;]/div[@class=&quot;flex w-screen sm:w-3/4 md:w-4/5 lg:w-[500px] xl:w-[600px] px-8 py-8 flex-col justify-center gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[23px]&quot;]/button[@class=&quot;items-center justify-center px-8 py-4 font-sans text-base font-medium text-center text-white rounded-md bg-cerulean-600&quot;]</value>
+      <webElementGuid>4c7dd776-8cd9-4125-94cd-c4c391e54326</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>cd909f0e-4f80-475e-99a3-2a4447351dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/button</value>
+      <webElementGuid>2e6e091f-bcef-41f6-8897-75eb9678d17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::button[1]</value>
+      <webElementGuid>1a24de09-2c7c-4f48-b249-a4b75e1e6058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bridging the Digital Divide.'])[1]/preceding::button[1]</value>
+      <webElementGuid>02904d72-c4bb-43b9-aeb7-949c41e70402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Atur Ulang']/parent::*</value>
+      <webElementGuid>978f5ee0-9373-44ea-8376-b455f63e3a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>bcf04cd8-d84f-4c5d-a19f-bd42d03c0825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Atur Ulang' or . = 'Atur Ulang')]</value>
+      <webElementGuid>96b16ed2-2c2e-40aa-b115-7908d217f12d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
