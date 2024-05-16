@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 //-----------------------------------------------------------------------
 //------------------------Ambil data dari excell-------------------------
-String pathData = 'Data Files/Login/userAccount'
+String pathData = 'Data Files/Login/UserFailed'
 
 def countRow = findTestData(pathData).getRowNumbers( //Cek jumlah row dalam Data File
     )

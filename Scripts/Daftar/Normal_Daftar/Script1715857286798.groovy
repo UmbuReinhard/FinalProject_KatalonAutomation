@@ -25,13 +25,13 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Daftar/a_Daftar'))
 
-WebUI.setText(findTestObject('Object Repository/Daftar/input__name'), 'Testing')
+WebUI.setText(findTestObject('Object Repository/Daftar/input__name'), Nama)
 
-WebUI.setText(findTestObject('Object Repository/Daftar/input__email'), 'wismadata6@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Daftar/input__email'), Email)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__password'), '1yqqhzF9jWbq43zIrQMuwl2yFgQvFLEn')
+WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__password'), Password)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__confirmPassword'), '1yqqhzF9jWbq43zIrQMuwl2yFgQvFLEn')
+WebUI.setEncryptedText(findTestObject('Object Repository/Daftar/input__confirmPassword'), ConfirmPassword)
 
 WebUI.delay(2)
 

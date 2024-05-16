@@ -5,4 +5,65 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>3736dc6b-643e-48d7-bbbb-f75a9a86b117</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>642b2527-8fb4-4b83-b95f-bd336abaffb9</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Registration/RegistData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>642b2527-8fb4-4b83-b95f-bd336abaffb9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Nama</value>
+      <variableId>e7b40149-3962-4c41-a7c8-82ff282af2a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>642b2527-8fb4-4b83-b95f-bd336abaffb9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Email</value>
+      <variableId>856c7c1f-bc03-4329-b44c-88b4505dbc84</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>642b2527-8fb4-4b83-b95f-bd336abaffb9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>71a7e7d6-e956-4d99-8e6d-b63a9f869253</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>642b2527-8fb4-4b83-b95f-bd336abaffb9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ConfirmPassword</value>
+      <variableId>0640c6f1-cfd5-4eea-8c40-4326b29b59b7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e7b40149-3962-4c41-a7c8-82ff282af2a2</id>
+      <masked>false</masked>
+      <name>Nama</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>856c7c1f-bc03-4329-b44c-88b4505dbc84</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>71a7e7d6-e956-4d99-8e6d-b63a9f869253</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0640c6f1-cfd5-4eea-8c40-4326b29b59b7</id>
+      <masked>false</masked>
+      <name>ConfirmPassword</name>
+   </variable>
 </TestCaseEntity>

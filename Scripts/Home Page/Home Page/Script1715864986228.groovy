@@ -27,7 +27,6 @@ WebUI.delay(2)
 WebUI.takeScreenshot()
 
 //Login
-
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Open menu_w-6 h-6 text-white'))
 
 WebUI.delay(2)
@@ -47,7 +46,6 @@ WebUI.takeScreenshot()
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/button_Masuk'))
 
 // Masuk Homepage
-
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/span_Lihat Program'))
 
 WebUI.delay(2)
@@ -55,7 +53,6 @@ WebUI.delay(2)
 WebUI.takeScreenshot()
 
 // Detail Program
-
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/span_Detail'))
 
 WebUI.delay(2)
@@ -63,7 +60,6 @@ WebUI.delay(2)
 WebUI.takeScreenshot()
 
 // View Schedule
-
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/button_View All'))
 
 WebUI.delay(2)
@@ -71,57 +67,53 @@ WebUI.delay(2)
 WebUI.takeScreenshot()
 
 // View perDay
-
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Next week_w-5 h-5'))
+
 WebUI.delay(2)
 
 WebUI.takeScreenshot()
 
-
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Next week_w-5 h-5'))
+
 WebUI.delay(2)
 
 WebUI.takeScreenshot()
 
-
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Next week_w-5 h-5'))
+
 WebUI.delay(2)
 
 WebUI.takeScreenshot()
 
-
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Next week_w-5 h-5'))
+
 WebUI.delay(2)
 
 WebUI.takeScreenshot()
 
-
 WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Next week_w-5 h-5'))
+
 WebUI.delay(2)
 
 WebUI.takeScreenshot()
-
 
 WebUI.doubleClick(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Previous week_w-5 h-5'))
-WebUI.delay(2)
-
-WebUI.takeScreenshot()
-
-
-WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Previous week_w-5 h-5'))
-
-WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Previous week_w-5 h-5'))
-
-WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Previous week_w-5 h-5'))
-
-WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Previous week_w-5 h-5'))
-
-WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/a_Pelajari Metrodata Training'))
 
 WebUI.delay(2)
 
 WebUI.takeScreenshot()
 
+WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Previous week_w-5 h-5'))
+
+WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Previous week_w-5 h-5'))
+
+WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Previous week_w-5 h-5'))
+
+WebUI.click(findTestObject('Object Repository/HomePage/Page_Metrodata Academy/svg_Previous week_w-5 h-5'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 
