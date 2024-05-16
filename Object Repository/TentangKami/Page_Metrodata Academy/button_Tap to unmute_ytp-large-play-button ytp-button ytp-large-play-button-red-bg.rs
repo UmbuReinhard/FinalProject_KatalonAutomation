@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tap to unmute_ytp-large-play-button ytp-button ytp-large-play-button-red-bg</name>
+   <tag></tag>
+   <elementGuidId>10c151e3-2815-40ad-9127-961dd4ece8c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='movie_player']/div[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ytp-large-play-button.ytp-button.ytp-large-play-button-red-bg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Play&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2b999ba6-12ea-4777-a9e5-b6fd14e37778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-large-play-button ytp-button ytp-large-play-button-red-bg</value>
+      <webElementGuid>abead4b0-6066-4b1b-bc55-99e829e429c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Play</value>
+      <webElementGuid>d9005d7f-0ccd-47c5-af3e-d725b688e736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Play</value>
+      <webElementGuid>651de664-97c8-4a49-aff7-f61afa48b161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;movie_player&quot;)/div[@class=&quot;ytp-cued-thumbnail-overlay&quot;]/button[@class=&quot;ytp-large-play-button ytp-button ytp-large-play-button-red-bg&quot;]</value>
+      <webElementGuid>443443bd-9a64-4b62-a9b4-97a9af63295c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TentangKami/Page_Metrodata Academy/iframe_Metrodata Academy_w-full h-full mdw-_248f16</value>
+      <webElementGuid>b3370788-8e90-425f-93dd-77d7a13148a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='movie_player']/div[4]/button</value>
+      <webElementGuid>16b217b2-db0d-431a-b9d4-ff6f07297258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tap to unmute'])[1]/following::button[1]</value>
+      <webElementGuid>4cded24e-41fc-40cc-8e47-39d85208a9fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping'])[1]/following::button[3]</value>
+      <webElementGuid>4de56980-ed69-4852-9483-b5883d0553f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More videos'])[1]/preceding::button[4]</value>
+      <webElementGuid>f80de837-b30e-409d-9bea-3b49c2289541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>e31b1105-20b6-4348-9fd9-85dbcb7726e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Play']</value>
+      <webElementGuid>0d61002e-7cbb-4490-bf7d-403653ebb57e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

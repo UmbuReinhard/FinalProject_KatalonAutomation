@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Open menu_w-6 h-6 text-white</name>
+   <tag></tag>
+   <elementGuidId>5ff4074f-ac0d-4691-9467-fdacb7c123bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open menu'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.w-6.h-6.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Open menu&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5a057773-a81c-4d06-bd6b-e059a8941d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>1d9e9640-fdad-4088-9b0e-5610db5480c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>5417d937-4906-4a7d-9bb1-997d0b4642b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>584d9880-d05d-499a-b1a2-587b90fcb6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>2f5e4ef2-447c-4b52-be03-19f11b9d656b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9f82bbd1-e1b1-4873-bad7-9dbef5b29900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-6 h-6 text-white</value>
+      <webElementGuid>a03074a4-0245-43ca-81db-b51b18c308e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>ebac4670-0849-4e36-af8e-09b9972494cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>f877b985-1718-4725-8808-7a5a284b3016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>2d4a37a5-483f-4498-bc7e-a985fd212953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;fixed top-0 left-0 right-0 z-10 bg-gradient-to-r from-white/40 to-white/20 sm:z-40 drop-shadow-lg backdrop-blur-lg&quot;]/nav[@class=&quot;flex items-center justify-between lg:px-[108px] xl:py-2 xl:h-[92px] py-6 px-8 xl:justify-center&quot;]/div[@class=&quot;flex xl:hidden mr-1.5 xl:mr-0&quot;]/button[@class=&quot;inline-flex items-center justify-center p-2 -m-2 text-white rounded-md 5&quot;]/svg[@class=&quot;w-6 h-6 text-white&quot;]</value>
+      <webElementGuid>5e5f200f-6bff-4088-a70e-8ca94d8c796d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open menu'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>edc8d731-e248-4e4f-8c7a-dad7d3a5860c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>beb466a9-25c2-47bb-ae82-2a99c841f167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>6e2139ea-5c3b-48ed-9363-25d688ff668e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Training'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>7d790638-371c-45ea-bf3c-af8a4dacf2b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

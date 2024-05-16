@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login&#xd;
+Menu Artikel&#xd;
+Scroll&#xd;
+Klik Next Halaman&#xd;
+Klik Halaman&#xd;
+Close</description>
+   <name>MenuArtikel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3d63ec2-4208-478a-94eb-bb6a61b674b3</testCaseGuid>
+</TestCaseEntity>

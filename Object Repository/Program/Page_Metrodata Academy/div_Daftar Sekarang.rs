@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daftar Sekarang</name>
+   <tag></tag>
+   <elementGuidId>b3a802f9-377f-4757-8612-5a584f8b0b54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Daftar Sekarang&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de96590f-9ff3-4938-af9f-ba3f6e634f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base</value>
+      <webElementGuid>08a2a216-07ac-4c2f-baee-1f7d4644d8df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Sekarang </value>
+      <webElementGuid>a58f9ca0-735e-4ae8-995f-a8d4ea938980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;bg-cover bg-center bg-no-repeat w-full&quot;]/div[@class=&quot;p-8 pt-[156px] lg:pt-[196px] lg:pb-24 pb-14 lg:px-[108px]&quot;]/div[@class=&quot;button&quot;]/button[@class=&quot;mt-6 bg-white  text-cerulean-600 font-bold py-3 px-6 text-base rounded-md hover:bg-cerulean-100 hover:ring-1 hover:ring-cerulean-600 transition delay-75&quot;]/div[@class=&quot;text-base&quot;]</value>
+      <webElementGuid>774086cb-fc0d-4c6d-9261-53bf01101119</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/button/div</value>
+      <webElementGuid>e96d0d76-54fe-4886-b44c-a6d18069702e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata IT-Camp'])[1]/following::div[2]</value>
+      <webElementGuid>4d6497e4-4d6e-496e-a3e3-4494e7d54313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wisma Dwi'])[1]/following::div[8]</value>
+      <webElementGuid>e7d980d6-150e-4097-b0ea-fbe2394aff93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kenapa harus Metrodata IT-Camp?'])[1]/preceding::div[1]</value>
+      <webElementGuid>eaa79ec6-98cf-4239-b8ce-66eaebf3ba5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memberikan Pelatihan Intensif Kepada Para Mahasiswa'])[1]/preceding::div[2]</value>
+      <webElementGuid>a712da55-8802-4de9-9bf7-1a2965c6b73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Sekarang']/parent::*</value>
+      <webElementGuid>ba740f42-3284-4799-9476-a18aa0a5dfb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>cf7373cc-c347-43ca-922e-cd005f974a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Daftar Sekarang ' or . = 'Daftar Sekarang ')]</value>
+      <webElementGuid>7d22faf0-85e7-4080-8797-13af3b980c1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

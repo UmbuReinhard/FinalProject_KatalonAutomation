@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Metrodata IT Camp</name>
+   <tag></tag>
+   <elementGuidId>40b99150-857d-4a81-ab35-db549603b147</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-disclosure-panel-:rh:']/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Metrodata IT Camp&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>87b71033-7551-4fde-8679-b7eebb9c7dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/metrodata-itcamp</value>
+      <webElementGuid>40a5411a-8d42-4d62-a2ee-39627b5fc652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 rounded-lg hover:bg-gray-50</value>
+      <webElementGuid>9ffd31d3-24e9-41d1-8587-0d632fd258ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-headlessui-state</name>
+      <type>Main</type>
+      <value>open</value>
+      <webElementGuid>c42c78f9-4dd4-4ef3-bc0f-d8705db5f37d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Metrodata IT Camp</value>
+      <webElementGuid>91703d6f-99e0-4209-b4b6-381c5ee200d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-panel-:rh:&quot;)/a[@class=&quot;block py-2 pl-6 pr-3 text-sm font-semibold leading-7 text-gray-900 rounded-lg hover:bg-gray-50&quot;]</value>
+      <webElementGuid>edb9ec11-ecc5-43f2-a65b-ea13ede8941c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-disclosure-panel-:rh:']/a[3]</value>
+      <webElementGuid>70ccc96a-69af-41af-903b-871c67829f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Metrodata IT Camp')])[3]</value>
+      <webElementGuid>18b5ce72-b45e-4884-9d06-6f21ca291335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Internship'])[7]/following::a[1]</value>
+      <webElementGuid>da6cabbd-7d1f-4d9d-b409-c87cccee87ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Training'])[5]/following::a[2]</value>
+      <webElementGuid>d43fc252-b0d1-4e93-bfc5-9b15630ad168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Mengajar'])[5]/preceding::a[1]</value>
+      <webElementGuid>a3c8a340-9cd2-414c-bd63-3c872c36c547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[3]/preceding::a[2]</value>
+      <webElementGuid>2b32a459-90ee-4765-b49c-8a62aaaf20b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/metrodata-itcamp')])[4]</value>
+      <webElementGuid>15713838-636c-47b0-b3a3-6872fbe9b9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a[3]</value>
+      <webElementGuid>a217a7c3-8b71-4cb6-9405-1558561c576b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/metrodata-itcamp' and (text() = 'Metrodata IT Camp' or . = 'Metrodata IT Camp')]</value>
+      <webElementGuid>64f6c8de-bce1-45c3-93f4-5f1285690f58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

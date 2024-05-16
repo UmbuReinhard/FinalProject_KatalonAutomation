@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Last</name>
+   <tag></tag>
+   <elementGuidId>b9a4731e-41b9-4fdc-a2d2-398913a424f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/nav/ul/div[3]/li[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Last&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>14aec7a4-dc07-443c-aa9a-fe50df26fd13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 h-10 border text-sm font-medium hover:bg-blue-100 border-gray-300 text-gray-500 hover:bg-blue-100</value>
+      <webElementGuid>47d07038-a422-42db-a4a8-2ac8e15693e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last</value>
+      <webElementGuid>828eefe6-8d52-4a01-9e72-f0c51b2baded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;bg-cerulean-50 lg:px-[108px] px-9 pt-40 lg:pb-24 pb-8&quot;]/div[@class=&quot;mx-auto max-w-7xl&quot;]/div[@class=&quot;py-8 lg:py-24&quot;]/nav[@class=&quot;flex justify-center mx-auto max-w-7xl&quot;]/ul[@class=&quot;flex items-center -space-x-px text-sm&quot;]/div[@class=&quot;flex&quot;]/li[2]/button[@class=&quot;px-4 h-10 border text-sm font-medium hover:bg-blue-100 border-gray-300 text-gray-500 hover:bg-blue-100&quot;]</value>
+      <webElementGuid>f7fbdc14-5e5d-4b73-a572-9416629b1642</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/nav/ul/div[3]/li[2]/button</value>
+      <webElementGuid>473bf816-da02-4b20-8934-d5cd6d21be75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[1]</value>
+      <webElementGuid>a8b758af-e9a2-4c9d-a749-9850429f7f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::button[5]</value>
+      <webElementGuid>a418fe26-ef70-426f-8d41-4eefa13a0281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::button[1]</value>
+      <webElementGuid>0eb11eee-f794-4643-b8af-0ec1637652cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/li[2]/button</value>
+      <webElementGuid>912c3356-871d-4290-9467-43036fa4c74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Last' or . = 'Last')]</value>
+      <webElementGuid>ea3ffc48-e43c-47d9-acff-e064a994a934</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik Lihat Program&#xd;
+Metrodata Training --> Klik detail&#xd;
+Masuk Page&#xd;
+Klik View All&#xd;
+Lihat Jadwal --> Klik kursor hari&#xd;
+selesai</description>
+   <name>Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b49c814-85b7-4c29-8d93-9713531578e9</testCaseGuid>
+</TestCaseEntity>

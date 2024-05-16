@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Detail</name>
+   <tag></tag>
+   <elementGuidId>07b2e847-c715-4bca-a906-678a31156e30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='section-lihat-program']/div/div/div/div[2]/div/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Detail&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5049d99c-d7a6-44e0-ae69-669925e100a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>0851e7ec-eda7-4a79-93ca-eb36b952c6f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-lihat-program&quot;)/div[@class=&quot;scroll-smooth&quot;]/div[@class=&quot;p-8 bg-[#F4F7FF] lg:py-24 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col items-center justify-center w-full mx-auto&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 md:place-content-center items-start gap-2&quot;]/div[@class=&quot;flex flex-col p-6 items-start gap-3 rounded-lg bg-white w-full h-full lg:max-w-[300px]&quot;]/div[@class=&quot;flex items-start w-full mt-auto&quot;]/a[@class=&quot;flex items-center text-sm lg:text-base font-normal leading-tight text-cerulean-600 hover:underline transition delay-150&quot;]/span[1]</value>
+      <webElementGuid>15a320ee-125a-4528-8b1d-4e06cfce00d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='section-lihat-program']/div/div/div/div[2]/div/div[2]/a/span</value>
+      <webElementGuid>37f1ec45-bac5-43d9-8222-112a2d0a8ca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabung dengan program unggulan kami'])[1]/following::span[1]</value>
+      <webElementGuid>415c8ba4-e144-47ae-bcdc-6968813d93db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[2]/preceding::span[1]</value>
+      <webElementGuid>5c814841-8041-43d0-8293-58d030ea3838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[3]/preceding::span[2]</value>
+      <webElementGuid>49cd6d97-d5d0-4d43-9a0a-e3c47dd02803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Detail']/parent::*</value>
+      <webElementGuid>c5d9db69-4f67-410d-a9b6-82de534f4f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div[2]/div/div[2]/a/span</value>
+      <webElementGuid>15e72731-7988-4c33-90dd-059c3afc1c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>3a56437d-8912-461c-a3d4-471c8d896a34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
